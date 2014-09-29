@@ -1,4 +1,9 @@
-csgocfg
+CS:GO Configuration
 =======
 
-CS:GO cfg
+Personal CS:GO configuration
+
+Includes:
+* Crosshair
+* Network adjustments
+* FPS adjustments
